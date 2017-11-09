@@ -1,4 +1,5 @@
-# linux
+# BALinux
+# Technopark
 
 Project for BALinux, Technopark. 
 Winter 2016
