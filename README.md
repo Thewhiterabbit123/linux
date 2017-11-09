@@ -1,6 +1,6 @@
-# BALinux
+# BALinux #
 
-# Technopark
+- - - -
 
 Project for BALinux, Technopark. 
 Winter 2016
@@ -9,9 +9,9 @@ Winter 2016
 Зима 2016
 
 
+- - - -
 
-
-# Задание
+# Задание #
 
 Создать страницу отображения ключевой информации о системе:
 
